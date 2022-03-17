@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1647548580,
+	"version": 1647551721,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -64,18 +64,12 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"ubuntu medium.css",
-		"ubuntu medium.eot",
-		"ubuntu medium.html",
-		"ubuntu medium.svg",
-		"ubuntu medium.woff",
-		"ubuntu medium.woff2",
-		"ubuntu bold.css",
-		"ubuntu bold.eot",
-		"ubuntu bold.html",
-		"ubuntu bold.svg",
-		"ubuntu bold.woff",
-		"ubuntu bold.woff2",
+		"stylesheet.css",
+		"ubuntu-bold-webfont.woff",
+		"ubuntu-bold-webfont.woff2",
+		"stylesheet2.css",
+		"ubuntu-medium-webfont.woff",
+		"ubuntu-medium-webfont.woff2",
 		"firebase.js"
 	]
 }

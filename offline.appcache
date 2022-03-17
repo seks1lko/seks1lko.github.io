@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1647548580
+#1647551721
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -63,18 +63,12 @@ icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
-ubuntu%20medium.css
-ubuntu%20medium.eot
-ubuntu%20medium.html
-ubuntu%20medium.svg
-ubuntu%20medium.woff
-ubuntu%20medium.woff2
-ubuntu%20bold.css
-ubuntu%20bold.eot
-ubuntu%20bold.html
-ubuntu%20bold.svg
-ubuntu%20bold.woff
-ubuntu%20bold.woff2
+stylesheet.css
+ubuntu-bold-webfont.woff
+ubuntu-bold-webfont.woff2
+stylesheet2.css
+ubuntu-medium-webfont.woff
+ubuntu-medium-webfont.woff2
 firebase.js
 NETWORK:
 *
